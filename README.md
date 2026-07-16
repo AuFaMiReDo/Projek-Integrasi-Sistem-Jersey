@@ -8,15 +8,12 @@ Proyek integrasi sistem e-commerce jersey yang menghubungkan website dengan API 
 
 ---
 
-## 👥 Anggota Kelompok 3
+## 👥 Pembuat
 
 | Nama | NIM |
 |------|-----|
 | Muhammad Aufa Fitrianda | 2310817210013 |
-| Muhammad Nurwahyudi Adhitama | 2310817310005 |
-| Muhammad Adh-Dhiya'us Salim | 2310817210022 |
-| Avantio Fierza Patria | 2310817310001 |
-| Athaya Laily Syafitri | 2310817220008 |
+
 
 ---
 
