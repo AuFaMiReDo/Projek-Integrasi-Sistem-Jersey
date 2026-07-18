@@ -1,5 +1,5 @@
 # 🛒 Projek Integrasi Sistem E-Commerce Jersey
-**Cucurutut Apparel × ULM — Pre-Order Jersey**
+**Pre-Order Jersey**
 
 Proyek integrasi sistem e-commerce jersey yang menghubungkan website dengan API Logistik JNE (Rajaongkir Komerce) dan platform pembayaran Tako menggunakan teknik **Deep Linking** dan **Webhook**.
 
